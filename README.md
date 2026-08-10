@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/course-evaluation-banner.png" alt="Course Evaluation System Banner" width="100%">
+  <img src="course-evaluation-banner.png" alt="Course Evaluation System Banner" width="100%">
 </p>
 
 # University Course Evaluation System
